@@ -46,7 +46,7 @@ void setup() {
 
    // set up the LCD's number of rows and columns: 
   lcd.begin(16, 2);
-  //lcd.setCursor(0,7);
+  lcd.setCursor(0,7);
   // Print a message to the LCD.
   lcd.print("hold my hand?");
   delay(1000);
@@ -63,6 +63,8 @@ void loop() {
     if(total1 > 20) {
 
        lcd.clear();
+      lcd.print("bless you...");
+      lcd.setCursor(1,3);
       lcd.print("thank you...");
 
       delay(150);
@@ -103,6 +105,7 @@ void loop() {
     else {
 
     lcd.clear();
+    lcd.setCursor(0,7);
     lcd.print("hold my hand?");
     delay(1000);
       
