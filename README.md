@@ -38,7 +38,7 @@ If the user accepts the plea, they can connect their hand with the metal hand pr
 
 The LCD screen would display its blessings and gratitude, and the text would scroll towards the left before bouncing back towards the right. This would repeat until the participant has released the metal hand.
 
-![IMG_5530](https://github.com/varsvisualizes/hold-my-hand/assets/47091936/bb2b5a11-fc87-424f-b461-ca4b46b516d1)
+![IMG_5529](https://github.com/varsvisualizes/hold-my-hand/assets/47091936/cf0e9761-0a7b-4865-ac67-46e53701334a)
 
 # Todo
 
